@@ -2,11 +2,11 @@
 
 The implementation of paper “Conditional Bilingual Mutual Information based Adaptive Training for Neural Machine Translation”. 
 
-> This code is based on [fairseq-0.10.2]([pytorch/fairseq: Facebook AI Research Sequence-to-Sequence Toolkit written in Python. (github.com)](https://github.com/pytorch/fairseq)).
+> This code is based on [fairseq-0.10.2](https://github.com/pytorch/fairseq).
 
 ## Contents
 
-- [Requirements and Installation](#Requirements and Installation)
+- [Requirements and Installation](#Requirements-and-Installation)
 - [Datasets](#Datasets)
 - [Train](#Train)
 - [Test](#Test)
