@@ -1,4 +1,4 @@
-# CBMI: Conditional Bilingual Mutual Information
+# Conditional Bilingual Mutual Information based Adaptive Training for Neural Machine Translation
 
 The implementation of paper “Conditional Bilingual Mutual Information based Adaptive Training for Neural Machine Translation”. 
 
