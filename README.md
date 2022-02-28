@@ -23,18 +23,25 @@ The implementation of ACL2022 paper “Conditional Bilingual Mutual Information 
 - WMT14 En-De (4.5M)
 - WMT19 Zh-En (20M)
 
+## Prepare
+
+Before starting to run the scripts, build fairseq-cbmi first:
+```shell
+pip install --editable ./
+```
+
 ## Train
 
 - WMT14 En-De
 
   ```shell
-  bash train_ende.sh
+  bash train_ende.sh &
   ```
 
 - WMT19 Zh-En
 
   ```shell
-  bash train_zhen.sh
+  bash train_zhen.sh &
   ```
 
 ## Test
