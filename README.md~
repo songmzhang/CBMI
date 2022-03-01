@@ -25,7 +25,7 @@ The implementation of ACL2022 paper “Conditional Bilingual Mutual Information 
 
 ## Prepare
 
-Before starting to run the scripts, build fairseq-cbmi first:
+Before starting to run the scripts, please build fairseq-cbmi first:
 ```shell
 pip install --editable ./
 ```

@@ -46,7 +46,7 @@ pip install --editable ./
 
 ## Test
 
-You can directly check the bleu results through uncommenting the 'bleu' function in above train scripts.
+These scripts conduct validation and test during the training process. You can directly check the **BLEU** results through uncommenting the 'bleu' function line in the corresponding train scripts.
 
   
 
