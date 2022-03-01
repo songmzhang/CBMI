@@ -488,7 +488,7 @@ class TranslationTask(FairseqTask):
                     escape_unk=True,  # don't count <unk> as matches to the hypo
                 )
             )
-        # Following (Xu et al., 2021), replace @-@ to @ ##AT##-##AT## @ for WMT14_EnDe.
+        # Following Xu et al.(2021), replace @-@ to @ ##AT##-##AT## @ for WMT14_EnDe.
         # Don't worry, we also implement this trick on all the baseline systems.
         if self.cfg.eval_bleu_replace_atat:
             assert len(hyps) == len(refs), "Hyps and refs must have the same sentence accounts"
