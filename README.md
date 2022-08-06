@@ -1,6 +1,6 @@
 # Conditional Bilingual Mutual Information based Adaptive Training for Neural Machine Translation
 
-The implementation of ACL2022 paper “Conditional Bilingual Mutual Information based Adaptive Training for Neural Machine Translation”. 
+The implementation of ACL2022 paper “Conditional Bilingual Mutual Information based Adaptive Training for Neural Machine Translation”. [paper](https://arxiv.org/abs/2203.02951)
 
 > This code is based on [fairseq-0.10.2](https://github.com/pytorch/fairseq).
 
