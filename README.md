@@ -49,7 +49,7 @@ pip install --editable ./
 These scripts conduct validation and test during the training process. You can directly check the **BLEU** results through uncommenting the 'bleu' function line in the corresponding train scripts.
 
 ## Citation
-Please cite this paper if you find this repo useful.
+Please cite this paper if you use this repo.
 ```
 @inproceedings{zhang-etal-2022-conditional,
     title = "Conditional Bilingual Mutual Information Based Adaptive Training for Neural Machine Translation",
